@@ -1,4 +1,4 @@
-# breakingin
+# Breaking In!
 Site, Documents, and more for [Breaking In!](https://www.meetup.com/Breaking-In-Engineers-Helping-Engineers/)
 
 ## Repo Layout
