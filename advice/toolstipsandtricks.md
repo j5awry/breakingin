@@ -3,14 +3,19 @@
 * Docker!
 * DOCKER!
 
+## Package Managers
+
+* [homebrew](https://brew.sh/)
 
 ## Environment and Language Managers
 
 * [pyenv](https://github.com/pyenv/pyenv)
 * [virtualenv](https://virtualenv.pypa.io/en/latest/)
 * [pipenv](https://github.com/pypa/pipenv)
-* rvm
-* nvm
+* [rvm](https://rvm.io/)
+* [nvm](https://github.com/nvm-sh/nvm/blob/master/README.md)
+* [mvn](https://maven.apache.org/)
+* [gradle](https://gradle.org/)
 
 ## CLI Tools
 
